@@ -63,7 +63,7 @@ body {
     
 }
 
-.dw-container {
+#downloadBtn {
     display: inline-block;
     margin: 20px;
     padding: 25px;
