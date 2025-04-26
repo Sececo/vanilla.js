@@ -4,9 +4,10 @@ body {
 }
 
 .card {
+    background: #400abf;
+    background: linear-gradient(187deg, rgba(64, 10, 191, 1) 0%, rgba(221, 229, 240, 1) 100%);
     max-width: 400px;
     margin: 40px auto;
-    background: lightcoral;
     padding: 20px;
     border-radius: 20px;
     text-align: center;
@@ -65,10 +66,10 @@ body {
 
 #downloadBtn {
     display: inline-block;
-    margin: 20px;
-    padding: 25px;
-    background: #9b0b91;
-    color: white;
+    margin: 10px;
+    padding: 8px;
+    background: #e24dd8f1;
+    color: rgb(121, 34, 34);
     text-decoration: none;
-    border-radius: 35px;
+    border-radius: 10px;
 }
