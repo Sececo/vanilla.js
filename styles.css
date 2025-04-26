@@ -1,3 +1,8 @@
+body {
+    background: #7648e0;
+    background: radial-gradient(circle, rgba(118, 72, 224, 1) 0%, rgba(98, 147, 204, 1) 100%);
+}
+
 .card {
     max-width: 400px;
     margin: 40px auto;
